@@ -1,3 +1,3 @@
 # Sudoku Solver
 
-the js works but am still fixing the html and css
+the js works but am still working on the html and css
